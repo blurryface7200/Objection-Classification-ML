@@ -6,7 +6,7 @@ The dataset used is CIFAR-10 which has 10 different categories of images with ea
 <img width="356" alt="image" src="https://github.com/blurryface7200/Objection-Classification-ML/assets/94574451/e304b5de-83a3-4283-89b4-882559c20892">
 
 
-The methodology used in the model is based on Convolutional Neural Networks (CNN). It is achieved by training a model using the training images and labels and tweaking and adding on a few layers to achieve good accuracy. 
+The methodology used in the model is based on Convolutional Neural Networks (CNN). It is achieved by training a model using the training images and labels and tweaking and adding on a few layers to achieve better accuracy. 
 
 Achieved an accuracy of 53.1% on the testing data. 
 
