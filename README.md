@@ -11,6 +11,6 @@ The methodology used in the model is based on Convolutional Neural Networks (CNN
 Achieved an accuracy of 53.1% on the testing data. 
 
 Read the full report here: 
-[report.pdf](https://github.com/blurryface7200/Objection-Classification-ML/files/14016299/report.pdf)
+[report.pdf](https://github.com/blurryface7200/Objection-Classification-ML/blob/main/report.pdf)
 
 
